@@ -30,4 +30,10 @@ switch ($choice) {
     default:
         echo "Неверный выбор\n";
 }
+
+function addition($a, $b) {
+    return $a + $b;
+}
+
+
 ?>
